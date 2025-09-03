@@ -1,0 +1,22 @@
+VERSION 1.0 CLASS
+BEGIN
+  MultiUse = -1  'True
+END
+Attribute VB_Name = "Calculs_1_Main"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = False
+'Classe d'interface des Calculs
+
+Public Sub ImportData()
+End Sub
+
+Public Sub Calculs()
+End Sub
+
+Public Sub Epiphenomenes()
+
+End Sub
+
+
